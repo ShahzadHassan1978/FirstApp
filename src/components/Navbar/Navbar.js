@@ -14,17 +14,17 @@ export default function Navbar() {
         <ul className="nav-links">
           <li>
             <Link to="/" className="nav-link">
-              home
+              Home
             </Link>
           </li>
           <li>
             <Link to="/About" className="nav-link">
-              about
+              About
             </Link>
           </li>
           <li>
             <Link to="/TourList" className="nav-link active">
-              tours
+              Tours
             </Link>
           </li>
         </ul>
